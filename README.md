@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Waqas Nazir 👋
 ## I'm a computer Science Enthusiast!
 - 🔭 I’m currently student at Virtual University of Pakistan
-- 🌱 I’m currently learning AI & Machine Learning by using Python.
+- 🌱 I’m currently learning AI & Machine Learning With Python.
 <h2><i>💻 Tech Stack</i></h2>
 <table width="100" >
 <tr>
