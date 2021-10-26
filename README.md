@@ -3,7 +3,7 @@
 - 🔭 I’m currently student at Virtual University of Pakistan
 - 🌱 I’m currently learning AI & Machine Learning With Python.
 <h2><i>💻 Tech Stack</i></h2>
-<table width="100" >
+<table width="100%" >
 <tr>
     <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
