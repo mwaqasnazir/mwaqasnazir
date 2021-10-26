@@ -51,19 +51,18 @@
 <a href="mailto:wbutt1514@gmail.com"><img src="https://img.shields.io/badge/-wbutt1514@gmial.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/Muhamma18854271"><img src="https://img.shields.io/badge/-@Muhammad%20Waqas%20Nazir-blue?style=flat&logo=Twitter&logoColor=white"/></a>
 
-<div>
-<h2> Contribution Graph <h2/>
+## Contribution Graph
 
 [![Waqas's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mwaqasnazir&theme=xcode)](https://github.com/mwaqasnazir)
-</div/>
-        
+
+
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
-<p align="center" width="100%">
-<a href="https://github.com/mwaqasnazir" style="display:inline-flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwaqasnazir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mwaqasnazir&layout=compact&langs_count=8&theme=algolia"/>
+<p align="center">
+<a href="https://github.com/mwaqasnazir">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwaqasnazir&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mwaqasnazir&layout=compact&langs_count=8&theme=dark"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaqasnazir&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaqasnazir&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" />
 </p>
 </p>
