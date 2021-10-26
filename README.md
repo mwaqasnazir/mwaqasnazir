@@ -58,7 +58,7 @@
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center" width="100%">
-<a href="https://github.com/mwaqasnazir">
+<a href="https://github.com/mwaqasnazir" display="inline-flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwaqasnazir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mwaqasnazir&layout=compact&langs_count=8&theme=algolia"/>
 </a>
