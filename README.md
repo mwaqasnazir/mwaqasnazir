@@ -49,7 +49,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-waqas-nazir-8b44031a3"><img src="https://img.shields.io/badge/-Muhammad%20Waqas%20Nazir-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:wbutt1514@gmail.com"><img src="https://img.shields.io/badge/-wbutt1514@gmial.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!-- <a href="https://twitter.com/Muhamma18854271"><img src="https://img.shields.io/badge/-@Muhammad%20Waqas%20Nazir-blue?style=flat&logo=Twitter&logoColor=white"/></a> -->
+<a href="https://twitter.com/mwaqasnazir__"><img src="https://img.shields.io/badge/-@Muhammad%20Waqas%20Nazir-blue?style=flat&logo=Twitter&logoColor=white"/></a>
 
 ## Contribution Graph
 
