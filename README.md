@@ -5,37 +5,55 @@
 <table width="100%" >
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        <img src="https://www.svgrepo.com/show/373728/kotlin.svg" width="60">
     </td>
       <td align='center' width="190">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60" height="60">
+        <img src="https://www.svgrepo.com/show/184143/java.svg" width="60" height="60">
     </td>
       <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
+        <img src="https://www.svgrepo.com/show/31053/xml.svg" height="60" width="60">
     </td>
       <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" width="60">
     </td>
       <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+        <img src="https://www.svgrepo.com/show/353735/firebase.svg" width="60">
     </td>
 </tr>
 
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="60">
     </td>
       <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg">
+        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="60">
+    </td>
+</tr>
+
+<tr>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" width="60">
+    </td>
+      <td align='center' width="190">
+        <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="50">
     </td>
 </tr>
 </table>
