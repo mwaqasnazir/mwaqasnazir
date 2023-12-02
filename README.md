@@ -1,6 +1,5 @@
 # Hi there, I'm Muhammad Waqas Nazir 👋
-## Freelance Android Developer with expertise in WordPress and Mobile App Design
-- 🔭 I’m currently a freelance Android Developer.
+## Freelance Android Developer.
 <h2><i>💻 Tech Stack</i></h2>
 <table width="100%" >
 <tr>
