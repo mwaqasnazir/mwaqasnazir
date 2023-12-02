@@ -1,7 +1,6 @@
 # Hi there, I'm Muhammad Waqas Nazir 👋
-## I'm a computer Science Enthusiast!
-- 🔭 I’m currently a student at the Virtual University of Pakistan
-- 🌱 I’m currently learning Andriod.
+## Freelance Android Developer with expertise in WordPress and Mobile App Design
+- 🔭 I’m currently a freelance Android Developer.
 <h2><i>💻 Tech Stack</i></h2>
 <table width="100%" >
 <tr>
