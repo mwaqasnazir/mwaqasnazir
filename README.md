@@ -67,9 +67,6 @@
 <a href="mailto:wbutt1514@gmail.com"><img src="https://img.shields.io/badge/-wbutt1514@gmial.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/mwaqasnazir__"><img src="https://img.shields.io/badge/-@Muhammad%20Waqas%20Nazir-blue?style=flat&logo=Twitter&logoColor=white"/></a>
 
-## Contribution Graph
-
-[![Waqas's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mwaqasnazir&theme=xcode)](https://github.com/mwaqasnazir)
 
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
